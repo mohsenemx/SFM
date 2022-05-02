@@ -1,0 +1,10 @@
+If you are a normal user, you should NOT be here, download main app executable from
+master branch, and run it on your device.
+
+
+my files are safe, you can check it if you want.
+
+
+If you know how to code then:
+Download entire master branch,
+open source folder, there should be a file called "main.cpp", that is main source of app and you can use it.
