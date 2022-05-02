@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Source Code
+*.cpp
+*.c
+*.Header
+*.h
